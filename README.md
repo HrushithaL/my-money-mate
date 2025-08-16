@@ -58,7 +58,9 @@ Pie Chart of Expenses
 📊 Advanced analytics for spending patterns.
 
 
-👩‍💻 Author
-Hrushitha K L
-📧 Email: hrushithashetty@gmail.com
+👥 Project Members
+Hrushitha K L - Frontend Developer & UI Designer
+Harsha D V - Backend & Database Developer
+
+
 
